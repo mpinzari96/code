@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 100" role="img" aria-labelledby="title">
+  <title id="title">Youth For God</title>
+  <g fill="none" stroke="#111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 92V38c0-28 20-44 44-44s44 16 44 44v54" />
+    <path d="M80 20v72" />
+    <path d="M54 56h52" />
+  </g>
+  <text x="134" y="52" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#111" font-weight="700">
+    YOUTH
+  </text>
+  <text x="134" y="82" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111" font-weight="600">
+    FOR GOD
+  </text>
+</svg>
+
